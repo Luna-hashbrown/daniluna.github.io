@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.titulo-web{
+    color: blue;
+} 
+
+img{
+    width: 300px;
+}
+
+.gatitu{
+    width: 300px;
+}
